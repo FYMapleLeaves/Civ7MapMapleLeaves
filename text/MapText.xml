@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MAP_ML_INLAND_SEA_NAME">
+			<Text>Inland Sea</Text>
+		</Row>
+		<Row Tag="LOC_MAP_ML_INLAND_SEA_DESCRIPTION">
+			<Text>A map with an inland sea in the center.</Text>
+		</Row>
+	</EnglishText>
+
+  <LocalizedText>
+    <Replace Tag="LOC_MAP_ML_INLAND_SEA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>本土和遥远大陆各有一片内海。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_ML_INLAND_SEA_NAME" Language="zh_Hans_CN">
+      <Text>内海</Text>
+    </Replace>
+
+
+    <Replace Tag="LOC_MAP_ML_INLAND_SEA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>本土和遥远大陆各有一片内海。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_ML_INLAND_SEA_NAME" Language="zh_Hant_HK">
+      <Text>内海</Text>
+    </Replace>
+
+  </LocalizedText>
+</Database>
