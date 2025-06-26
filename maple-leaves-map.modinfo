@@ -4,7 +4,7 @@
 	<Properties>
 		<Name>LOC_MODULE_MAPLE_LEAVES_MAP_NAME</Name>
 		<Description>LOC_MODULE_MAPLE_LEAVES_MAP_DESCRIPTION</Description>
-		<Authors>LOC_MODULE_MAPLE_LEAVES_MAP_AUTHOR</Authors>
+		<Authors>Maple_Leaves</Authors>
 		<Package>MOD</Package>
 	</Properties>
 	<Dependencies>
